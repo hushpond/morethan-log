@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `yonsei015b`,
-      href: "https://https://brunch.co.kr/@yonsei015b",
+      href: "https://brunch.co.kr/@yonsei015b",
     },
   ],
   // blog setting (required)
