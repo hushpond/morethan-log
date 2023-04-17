@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "A Sea-turtle",
+    name: "Seaturtle",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Editor",
-    bio: "전 공이 세 개입니다만 (Triple Major)",
+    role: "Undergraduate",
+    bio: "전공이 세 개입니다만",
     email: "",
     linkedin: "",
     github: "hushpond",
