@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Seaturtle",
-    image: "<img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6NywibW91dGgiOjQsImV5ZXMiOjksImV5ZWJyb3dzIjo5LCJnbGFzc2VzIjo4LCJoYWlyIjozMywiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9" alt="notion avatar">", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Undergraduate",
     bio: "전공이 세 개입니다만",
     email: "",
